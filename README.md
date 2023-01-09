@@ -3,5 +3,11 @@ this program will be run on linux
 -this allows the hackers to have an upperhand due to having emails that can be used to attack a certain website
 
 
-/***Than 
-k you all ***/
+/***Thank you all ***/                                           /****************
+                                                                    *************
+                                                                     ***********
+                                                                      ********
+                                                                       ******
+                                                                        ****
+                                                                         **
+                                                                          */
